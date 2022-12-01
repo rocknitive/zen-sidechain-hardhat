@@ -2,6 +2,7 @@
   "name": "zen-sidechain-hardhat",
   "version": "1.0.0",
   "description": "Example project to use Hardhat with the Zen EVM sidechain",
+  "license": "MIT",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^2.0.0",
     "hardhat": "^2.12.0",
